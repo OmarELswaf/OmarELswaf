@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
   
 </p> 
 
@@ -21,7 +21,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/omarelswaf" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elswaf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elswaf-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/3more.alsawaf/" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elswaf-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:alsawaf.3mor@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elswaf-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 <a href="https://wa.me/201032442468" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elswaf-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
