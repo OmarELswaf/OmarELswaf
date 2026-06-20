@@ -1,61 +1,137 @@
+```md
+# Hi, I'm Omar Elsawaf 👋
 
+## Full Stack Developer (MERN Stack | ASP.NET Core)
 
-<h3 align="center">
-  Welcome to Omar Elswaf's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  
-</h3>
+I am a Full Stack Developer specialized in building scalable web applications using modern frontend and backend technologies.
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-  
-</p> 
+I have hands-on experience in developing RESTful APIs, authentication systems, database design, and responsive user interfaces. I enjoy writing clean code, solving problems, and building real-world applications.
 
-- 🏢 I'm a Software Engineer BackEnd Developer (ASP.Net)
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, .NetCore, MVC, and SQL or anything related to web development.
-- 👨‍💻 Check out my portfolio at                      to see some of the projects I've worked on.
+Currently focusing on improving my skills in modern web development and enterprise solutions.
 
+---
 
-### Connect with Me :
+## 🚀 Tech Stack
 
-<a href="https://www.linkedin.com/in/omarelswaf" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elswaf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/3more.alsawaf/" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elswaf-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="mailto:alsawaf.3mor@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elswaf-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
-<a href="https://wa.me/201032442468" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elswaf-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-<img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="HTML">&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" alt="CSS">&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular.js](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Bootstrap
+- HTML5
+- CSS3
 
-<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL">&nbsp;
-<img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL Server">&nbsp;
-<img src="https://img.shields.io/badge/c%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91" alt="C#">&nbsp;
-<img src="https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="LINQ">&nbsp;
-<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="Entity Framework">&nbsp;
-<img src="https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="ASP.NET">&nbsp;
-<img src="https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="API">&nbsp;
-<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="MVC">&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91" alt="Visual Studio">&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
+### Backend
+- Node.js
+- Express.js
+- ASP.NET Core
+- RESTful APIs
 
+### Database
+- MongoDB
+- SQL Server
+- Entity Framework Core
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![DataStructure](https://img.shields.io/badge/-DataStructure%20-05122A?style=flat&logo=DataStructure)&nbsp;
+### Tools
+- Git & GitHub
+- Docker
+- Postman
 
+---
 
+## 💼 Experience
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarELswaf&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<br>
+### SAP Developer Trainee
+**March 2025 - June 2025**
 
+- Learned SAP development concepts and enterprise workflows
+- Worked with SAP ECM (Enterprise Content Management)
+- Assisted in customizing SAP solutions
+- Supported debugging and troubleshooting SAP processes
 
-<a href="https://komarev.com/ghpvc/?username=OmarELswaf&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=OmarELswaf&style=for-the-badge">
-</a>
+### IT Support / Junior Software Developer
+**El-Mesery Group**
+**April 2024 - January 2025**
+
+- Provided technical support for internal systems
+- Maintained and troubleshooted IT infrastructure
+- Supported business software tools
+- Participated in system improvement tasks
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Sanda - Workforce Management Platform
+**MERN Stack**
+
+A scalable platform connecting companies with workers.
+
+Features:
+- RESTful APIs
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- QR Attendance System
+- PWA Features
+
+---
+
+### 🔹 Real-Time News & Data Aggregation App
+
+Full-stack application integrating multiple APIs.
+
+Features:
+- Live news integration
+- Weather data
+- Sports data
+- Currency information
+- Responsive UI
+
+---
+
+### 🔹 Shipping Management System
+
+**ASP.NET Core MVC**
+
+Features:
+- CRUD operations
+- User management
+- Authentication & Authorization
+- Entity Framework Core
+- Bootstrap UI
+
+---
+
+## 🎓 Education & Training
+
+🎓 Bachelor of Computer Science  
+Modern Academy University in Maadi - 2021
+
+📚 ITI - Full Stack .NET Track  
+Nov 2023 - Mar 2024
+
+📚 Digilians - Professional React Web Development Program  
+Jan 2026 - Jul 2026
+
+---
+
+## 📫 Connect With Me
+
+Email: alsawaf.3mor@gmail.com
+
+LinkedIn: Add your profile link here
+
+---
+
+## 💡 Goals
+
+- Building scalable software solutions
+- Improving backend architecture skills
+- Learning modern cloud and enterprise technologies
+
+---
+
+⭐ Thanks for visiting my profile!
+```
