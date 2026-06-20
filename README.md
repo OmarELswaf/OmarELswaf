@@ -1,140 +1,148 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=200&section=header&text=Omar%20Elsawaf&fontSize=40&fontColor=ffffff" />
+</p>
 
-# Hi, I'm Omar Elsawaf 👋
-
-### Full Stack Developer  
-**MERN Stack • ASP.NET Core**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarelswaf/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsawaf.3mor@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201032442468)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarelswaf)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+%7C+ASP.NET+Core;Building+Scalable+Web+Applications;Clean+Code+%7C+APIs+%7C+System+Design" />
+</p>
 
 ---
 
-<div align="center">
+# 👋 About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=omarelswaf&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" height="160" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelswaf&layout=compact&theme=tokyonight&hide_title=true&langs_count=8" height="160" alt="Top Languages"/>
+I am a **Full Stack Developer** specializing in **MERN Stack and ASP.NET Core**, focused on building scalable, maintainable, and high-performance web applications.
 
-</div>
+I have hands-on experience in:
+- RESTful API development
+- Authentication & Authorization systems
+- Database design & optimization
+- Enterprise-level workflows (SAP ECM exposure)
+- Full lifecycle web application development
 
----
-
-## 🚀 About Me
-
-Results-driven Full Stack Developer with hands-on experience building scalable, production-ready web applications using the MERN stack and ASP.NET Core. 
-
-I specialize in designing robust RESTful APIs, implementing secure authentication and authorization systems, and architecting efficient database solutions. I have a strong focus on clean code, maintainability, and delivering responsive user interfaces that solve real business problems.
-
-Currently advancing expertise in enterprise workflows and modern development practices.
+I care deeply about writing **clean code, scalable architecture, and real-world problem solving**.
 
 ---
 
-## 💻 Tech Stack
-
-<div align="center">
+# 🚀 Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+</p>
 
 ### Backend
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,postman" />
-
-</div>
+### Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+# 💼 Experience
 
-### SAP Developer Trainee
+## SAP Developer Trainee
 **March 2025 – June 2025**
 
-- Gained practical experience with SAP development concepts and enterprise business workflows
-- Worked directly with SAP Enterprise Content Management (ECM) systems
-- Assisted in customizing SAP solutions to meet organizational requirements
-- Supported debugging, troubleshooting, and optimization of SAP processes
-
-### IT Support / Junior Software Developer
-**El-Mesery Group** • April 2024 – January 2025
-
-- Delivered technical support and maintenance for internal business-critical systems
-- Maintained IT infrastructure reliability and performed system troubleshooting
-- Supported and enhanced enterprise software tools used across the organization
-- Contributed to continuous improvement initiatives and system optimization tasks
+- Trained on SAP development concepts and enterprise workflows  
+- Worked with SAP ECM (Enterprise Content Management)  
+- Assisted in customizing SAP solutions based on business requirements  
+- Supported debugging and troubleshooting SAP processes  
+- Gained exposure to enterprise system integration
 
 ---
 
-## 📌 Featured Projects
+## IT Support / Junior Software Developer
+**El-Mesery Group | April 2024 – January 2025**
 
-### Sanda — Workforce Management Platform
-**MERN Stack** • *Scalable SaaS-style application*
-
-A production-ready platform that connects companies with workers through an intelligent matching system.
-
-**Key Highlights:**
-- Secure RESTful APIs with JWT authentication
-- Role-Based Access Control (RBAC) for multi-user environments
-- Real-time QR code attendance system
-- Progressive Web App (PWA) for cross-device offline access
-
-### Real-Time News & Data Aggregation App
-**Full-Stack Application**
-
-Modern dashboard that aggregates and visualizes live data from multiple third-party APIs.
-
-**Key Highlights:**
-- Live news feed integration
-- Real-time weather, sports, and currency data
-- Clean, fully responsive UI with fast performance
-
-### Shipping Management System
-**ASP.NET Core MVC**
-
-Enterprise web application for logistics and shipping operations.
-
-**Key Highlights:**
-- Complete CRUD operations powered by Entity Framework Core
-- Secure authentication and role-based authorization
-- Modern responsive interface built with Bootstrap
+- Supported internal IT systems and infrastructure  
+- Resolved technical issues and production system errors  
+- Assisted in software maintenance and improvements  
+- Worked closely with business teams to ensure system stability  
 
 ---
 
-## 🎓 Education & Professional Development
+# 📌 Featured Projects
 
-| Program | Institution | Period |
-|---------|-------------|--------|
-| **Bachelor of Computer Science** | Modern Academy University, Maadi | 2021 |
-| **Full Stack .NET Track** | Information Technology Institute (ITI) | Nov 2023 – Mar 2024 |
-| **Professional React Web Development Program** | Digilians | Jan 2026 – Jul 2026 |
+## 🔹 Sanda – Workforce Management Platform (MERN)
+A scalable platform connecting companies with workers.
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-**Open to opportunities in full-stack development, scalable backend systems, and enterprise applications.**
-
-<a href="https://www.linkedin.com/in/omarelswaf/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:alsawaf.3mor@gmail.com"><img src="https://img.shields.io/badge/Email-Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/201032442468"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-</div>
+**Highlights:**
+- JWT Authentication & Role-Based Access Control (RBAC)
+- RESTful APIs for jobs, attendance, and payments
+- QR-based attendance system
+- PWA-ready mobile experience
 
 ---
 
-<div align="center">
+## 🔹 Real-Time Data Aggregation App
+Full-stack system integrating live APIs.
 
-⭐ **Thanks for visiting!**  
-Explore my repositories and feel free to reach out for collaboration or opportunities.
+**Highlights:**
+- News, weather, sports, and currency APIs
+- Responsive UI with modern JavaScript
+- Real-time data rendering
 
-</div>
+---
+
+## 🔹 Shipping Management System (ASP.NET Core MVC)
+
+**Highlights:**
+- CRUD operations for shipments
+- Authentication & Authorization system
+- Entity Framework Core integration
+- Responsive Bootstrap UI
+
+---
+
+# 🎓 Education & Training
+
+- 🎓 Bachelor of Computer Science – Modern Academy University (2021)  
+- 📚 ITI – Full Stack .NET Track (2023 – 2024)  
+- 📚 Digilians – React Professional Program (2026)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarELswaf&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarELswaf&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Contact
+
+<p>
+📧 Email: alsawaf.3mor@gmail.com  
+📱 WhatsApp: +20 103 244 2468  
+🔗 LinkedIn: https://www.linkedin.com/in/omarelswaf/
+</p>
+
+---
+
+# 💡 Key Strengths
+
+- Full Stack Development (MERN + ASP.NET Core)
+- API Design & System Integration
+- Clean Architecture & Scalable Systems
+- Problem Solving & Debugging
+- Real-world project experience
+
+---
+
+<p align="center">
+⭐ If you like my work, feel free to follow and connect!
+</p>
