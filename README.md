@@ -108,8 +108,8 @@ Full-stack system integrating live APIs.
 # 🎓 Education & Training
 
 - 🎓 Bachelor of Computer Science – Modern Academy University (2021)  
-- 📚 ITI – Full Stack .NET Track (2023 – 2024)  
-- 📚 Digilians – React Professional Program (2026)
+- 📚 ITI – Full Stack .NET Track (November 2023 – March 2024)  
+- 📚 Digilians – React Professional Program (January 2026 – July 2026)
 
 ---
 
