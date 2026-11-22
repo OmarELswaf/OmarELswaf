@@ -74,7 +74,7 @@ I care deeply about writing **clean code, scalable architecture, and real-world 
 
 [Task Management application](https://github.com/OmarELswaf/task-management)
 
-## 🔹 Sanda – Workforce Management Platform (MERN)
+## 🔹 [Sanda – Workforce Management Platform (MERN)](https://github.com/Hossam-hassan-h/sanda-front)
 A scalable platform connecting companies with workers.
 
 **Highlights:**
