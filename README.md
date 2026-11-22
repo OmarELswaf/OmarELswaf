@@ -72,6 +72,8 @@ I care deeply about writing **clean code, scalable architecture, and real-world 
 
 # 📌 Featured Projects
 
+[Task Management application](https://github.com/OmarELswaf/task-management)
+
 ## 🔹 Sanda – Workforce Management Platform (MERN)
 A scalable platform connecting companies with workers.
 
@@ -93,7 +95,7 @@ Full-stack system integrating live APIs.
 
 ---
 
-## 🔹 Shipping Management System (ASP.NET Core MVC)
+## 🔹 [Shipping Management System (ASP.NET Core MVC)](https://github.com/OmarELswaf/Shipping-System)
 
 **Highlights:**
 - CRUD operations for shipments
