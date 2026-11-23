@@ -12,7 +12,7 @@ I build web applications with responsive interfaces, REST APIs, authentication a
 
 ## Experience
 
-SAP Developer Trainee | March-June 2025
+SAP Developer Trainee, ECM | March-June 2025
 
 IT Support / Junior Software Developer, El-Mesery Group | April 2024-January 2025
 
